@@ -1,3 +1,1 @@
-# portfolio-one
-
-[Visit](https://rhsadikbd.github.io/portfolio-one/)
+## Portfolio website making for Chandan Ojha
